@@ -125,18 +125,18 @@ msgstr ""
 #: ../../NetDriveUI/adddrive.ui:518
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary MS Office files"
-msgstr ""
+msgstr "防止上载临时MS Office文件"
 
 #: ../../NetDriveUI/adddrive.ui:525
 msgctxt "AddDrive|"
 msgid "Prevent uploading of temporary HWP files (*.$$$, *.BAK)"
-msgstr ""
+msgstr "防止上载临时HwP文件（*.$， *.BAK）"
 
 #: ../../NetDriveUI/adddrive.ui:532
 msgctxt "AddDrive|"
 msgid ""
 "Use File Provider instead of Kernel Extension (experimental, macOS only)"
-msgstr ""
+msgstr "使用文件提供程序而不是内核扩展（实验性，仅限macOS）"
 
 #: ../../NetDriveUI/adddrive.ui:483
 msgctxt "AddDrive|"
@@ -215,64 +215,64 @@ msgstr "不支持的协议"
 #: ../../NetDriveUI/adddrive.cpp:1769
 msgctxt "AddDrive|"
 msgid "Authentication"
-msgstr ""
+msgstr "身份验证"
 
 #: ../../NetDriveUI/adddrive.cpp:1769
 msgctxt "AddDrive|"
 msgid "2FA Code"
-msgstr ""
+msgstr "2FA密钥"
 
 #: ../../NetDriveUI/adddrive.ui:312
 msgctxt "AddDrive|"
 msgid "ITEM LOCATION"
-msgstr ""
+msgstr "项目位置"
 
 #: ../../NetDriveUI/adddrive.cpp:243
 msgctxt "AddDrive|"
 msgid "In account"
-msgstr ""
+msgstr "在账户中"
 
 #: ../../NetDriveUI/adddrive.cpp:244
 msgctxt "AddDrive|"
 msgid "In device"
-msgstr ""
+msgstr "在设备中"
 
 #: ../../NetDriveUI/adddrive.cpp:303
 msgctxt "AddDrive|"
 msgid "Add a Personal Drive"
-msgstr ""
+msgstr "添加个人驱动器"
 
 #: ../../NetDriveUI/adddrive.cpp:309
 msgctxt "AddDrive|"
 msgid "Add a Team Drive"
-msgstr ""
+msgstr "添加团队驱动器"
 
 #: ../../NetDriveUI/adddrive.cpp:393
 msgctxt "AddDrive|"
 msgid "Configure a Team Drive"
-msgstr ""
+msgstr "配置团队驱动器"
 
 #: ../../NetDriveUI/adddrive.cpp:398
 msgctxt "AddDrive|"
 msgid "Configure a Personal Drive"
-msgstr ""
+msgstr "配置个人驱动器"
 
 #: ../../NetDriveUI/adddrive.cpp:1706
 msgctxt "AddDrive|"
 msgid ""
 "This team drive has no connection information set yet. Do you want to do it "
 "now?"
-msgstr ""
+msgstr "这个团队磁盘机尚未设定联机信息。 你是否要现在配置？"
 
 #: ../../../common/authtemplate.cpp:1154
 msgctxt "AuthTemplate|"
 msgid "Authentication"
-msgstr ""
+msgstr "身份验证"
 
 #: ../../../common/authtemplate.cpp:1154
 msgctxt "AuthTemplate|"
 msgid "2FA Code"
-msgstr ""
+msgstr "2FA密钥"
 
 #: ../../../ui_helper/bdui/bdlogin.ui:14 ../../../ui_helper/bdui/bdlogin.ui:155
 msgctxt "BDLogin|"
@@ -349,37 +349,37 @@ msgstr "配置驱动"
 #: ../../../ui_helper/filebrowser/deletedlg.cpp:9
 msgctxt "DeleteDlg|"
 msgid "Delete File"
-msgstr ""
+msgstr "删除文件"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:20
 msgctxt "DeleteFile|"
 msgid "Dialog"
-msgstr ""
+msgstr "对话"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:83
 msgctxt "DeleteFile|"
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 #: ../../../ui_helper/filebrowser/deletefile.ui:96
 msgctxt "DeleteFile|"
 msgid "No"
-msgstr ""
+msgstr "否"
 
 #: ../../../ui_helper/filebrowser/transferprogress.ui:32
 msgctxt "Dialog|"
 msgid "Progress"
-msgstr ""
+msgstr "进度情况"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:400
 msgctxt "FileBrowserManager|"
 msgid "Save to Downloads Folder"
-msgstr ""
+msgstr "保存到下载文件夹"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:401
 msgctxt "FileBrowserManager|"
 msgid "Download to..."
-msgstr ""
+msgstr "下载到…"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:402
 #, fuzzy
@@ -390,18 +390,18 @@ msgstr "打开"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:403
 msgctxt "FileBrowserManager|"
 msgid "Reload"
-msgstr ""
+msgstr "重新加载"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:404
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1020
 msgctxt "FileBrowserManager|"
 msgid "Rename"
-msgstr ""
+msgstr "重命名"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:405
 msgctxt "FileBrowserManager|"
 msgid "Move"
-msgstr ""
+msgstr "移动"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:406
 #, fuzzy
@@ -413,34 +413,34 @@ msgstr "删除"
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1129
 msgctxt "FileBrowserManager|"
 msgid "New folder"
-msgstr ""
+msgstr "新建文件夹"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:438
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:942
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:950
 msgctxt "FileBrowserManager|"
 msgid "Get Shareable Link"
-msgstr ""
+msgstr "获取可共享链接"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:448
 msgctxt "FileBrowserManager|"
 msgid "Lock"
-msgstr ""
+msgstr "锁定"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:449
 msgctxt "FileBrowserManager|"
 msgid "Unlock"
-msgstr ""
+msgstr "解锁"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:450
 msgctxt "FileBrowserManager|"
 msgid "Force unlock"
-msgstr ""
+msgstr "强制解锁"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:461
 msgctxt "FileBrowserManager|"
 msgid "Locked files list"
-msgstr ""
+msgstr "锁定文件列表"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:354
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:665
@@ -448,69 +448,69 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:706
 msgctxt "FileBrowserManager|"
 msgid "Connection Fail"
-msgstr ""
+msgstr "连接失败"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "Authentication"
-msgstr ""
+msgstr "身份验证"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:334
 msgctxt "FileBrowserManager|"
 msgid "2FA Code"
-msgstr ""
+msgstr "2FA密钥"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:354
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:665
 msgctxt "FileBrowserManager|"
 msgid "Failed to connect protocol."
-msgstr ""
+msgstr "连接协议失败。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:408
 msgctxt "FileBrowserManager|"
 msgid "Upload file"
-msgstr ""
+msgstr "上传文件"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:689
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1497
 msgctxt "FileBrowserManager|"
 msgid "Failed to get file list."
-msgstr ""
+msgstr "无法获取文件列表。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:706
 msgctxt "FileBrowserManager|"
 msgid "Failed to get root ID."
-msgstr ""
+msgstr "无法获取根ID。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:779
 msgctxt "FileBrowserManager|"
 msgid "Reload Folder"
-msgstr ""
+msgstr "重新加载文件夹"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:779
 msgctxt "FileBrowserManager|"
 msgid "Failed to reload folder."
-msgstr ""
+msgstr "无法重新加载文件夹。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:798
 msgctxt "FileBrowserManager|"
 msgid "Download Complete."
-msgstr ""
+msgstr "下载完成。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:806
 msgctxt "FileBrowserManager|"
 msgid "File downloading failed"
-msgstr ""
+msgstr "文件下载失败"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:806
 msgctxt "FileBrowserManager|"
 msgid "Can not download file from server."
-msgstr ""
+msgstr "无法从服务器下载文件。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:877
 msgctxt "FileBrowserManager|"
 msgid "Download file path"
-msgstr ""
+msgstr "下载文件路径"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:943
 #, qt-format
@@ -519,18 +519,20 @@ msgid ""
 "Successful to get shareable link.\n"
 "%1\n"
 "Click the OK button to copy the shareable link."
-msgstr ""
+msgstr "获取可共享链接成功。\n”
+“%1\n”
+“单击“确定”按钮复制可共享链接。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:950
 msgctxt "FileBrowserManager|"
 msgid "Failed to get shareable link."
-msgstr ""
+msgstr "无法获取可共享链接。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1018
 #, qt-format
 msgctxt "FileBrowserManager|"
 msgid "Failed to rename file with %1"
-msgstr ""
+msgstr "无法用%1重命名文件"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1040
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1065
@@ -538,13 +540,13 @@ msgstr ""
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1345
 msgctxt "FileBrowserManager|"
 msgid "Move File"
-msgstr ""
+msgstr "移动文件"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1040
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1065
 msgctxt "FileBrowserManager|"
 msgid "Failed to move file."
-msgstr ""
+msgstr "无法移动文件。"
 
 #: ../../../ui_helper/filebrowser/filebrowsermanager.cpp:1096
 msgctxt "FileBrowserManager|"
